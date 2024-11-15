@@ -93,6 +93,10 @@ Human pose detection has numerous applications, including:
 	3.	Medical Rehabilitation: Helping healthcare professionals track the progress of patients during physical therapy.
 	4.	Virtual Reality (VR) and Augmented Reality (AR): Interacting with virtual environments using real-time body movements.
 Screenshots
+![Screenshot 2024-11-15 214723](https://github.com/user-attachments/assets/230ef936-bc6d-4a41-951e-d2fd53e90a29)
+![image](https://github.com/user-attachments/assets/ced8969b-d332-4ba5-b59c-3ed3c0dfbbc7)
+![Screenshot 2024-11-15 215446](https://github.com/user-attachments/assets/767ccb75-7306-45fc-a619-74d273b2f2d2)
+![Screenshot 2024-11-15 215414](https://github.com/user-attachments/assets/8ec302ee-7f84-4ee1-b079-e7a3b3b66d1d)
 
 References
 
